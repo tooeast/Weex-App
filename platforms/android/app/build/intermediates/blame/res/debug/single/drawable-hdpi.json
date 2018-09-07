@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_scan.png",
+        "source": "/Users/changba157/Documents/ttest/my-app/platforms/android/app/src/main/res/drawable-hdpi/ic_action_scan.png"
+    },
+    {
+        "merged": "/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_refresh.png",
+        "source": "/Users/changba157/Documents/ttest/my-app/platforms/android/app/src/main/res/drawable-hdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_scan.png",
+        "source": "/Users/changba157/Documents/ttest/my-android/platforms/android/app/src/main/res/drawable-hdpi/ic_action_scan.png"
+    },
+    {
+        "merged": "/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_refresh.png",
+        "source": "/Users/changba157/Documents/ttest/my-android/platforms/android/app/src/main/res/drawable-hdpi/ic_action_refresh.png"
+    }
+]

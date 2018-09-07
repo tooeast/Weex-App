@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/res/merged/debug/xml/app_config.xml",
+        "source": "/Users/changba157/Documents/ttest/my-app/platforms/android/app/src/main/res/xml/app_config.xml"
+    },
+    {
+        "merged": "/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/res/merged/debug/xml/app_config.xml",
+        "source": "/Users/changba157/Documents/ttest/my-android/platforms/android/app/src/main/res/xml/app_config.xml"
+    }
+]

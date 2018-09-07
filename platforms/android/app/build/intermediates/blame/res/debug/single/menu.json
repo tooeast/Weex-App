@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/res/merged/debug/menu/main_scan.xml",
+        "source": "/Users/changba157/Documents/ttest/my-android/platforms/android/app/src/main/res/menu/main_scan.xml"
+    },
+    {
+        "merged": "/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/changba157/Documents/ttest/my-android/platforms/android/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/changba157/Documents/ttest/my-app/platforms/android/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/res/merged/debug/menu/main_scan.xml",
+        "source": "/Users/changba157/Documents/ttest/my-app/platforms/android/app/src/main/res/menu/main_scan.xml"
+    }
+]

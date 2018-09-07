@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.3.0/2e7bc7033dc2c8423e661224171b3133fb155b28/okhttp-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/pre-dexed/debug/okhttp-2.3.0_357fe27af19c1cc170e174a136ddc19788815d2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.1.0_78a02a4e38092f94734d1715c268b26e59989707.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.1.0_cbbd9b44c4652e18edc7256bdf13cb30f271d9eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-26.1.0_030d8956f04408dd38496ab789cd36786e8a6517.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.0.0_a33b5cd5f5a3922c1bf2b263c9dc685ca6588ae6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_sdk/0.16.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9cfcc5fc657d64c980b45db00cd75695d1ce2256">
+        <dex dex="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/pre-dexed/debug/com.taobao.android-weex_sdk-0.16.0_b5d6115c3fc87b4b5a9d5708db1a638d3cd43c32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/exploded-aar/com.taobao.android/weexplugin-loader/1.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c85f46e9eed1cccfd0bf5df199dd53a66de98651">
+        <dex dex="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/pre-dexed/debug/com.taobao.android-weexplugin-loader-1.3_686826d6b7eb045e4ce9f579a5df6358d8e1c040.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-26.1.0_3cf3692b4179763ce919c792632a85604067154d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/exploded-aar/com.taobao.android/weexplugin-loader/1.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c85f46e9eed1cccfd0bf5df199dd53a66de98651">
+        <dex dex="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/pre-dexed/debug/com.taobao.android-weexplugin-loader-1.3_953ce90daa9f3b2fe7b339c3c4f2e30bfe90fe0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_inspector/0.10.0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="575d72d4a489260763ca62b2b54450fdec3bebd1">
+        <dex dex="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/pre-dexed/debug/com.taobao.android-weex_inspector-0.10.0.5_8ad242a6c749876bc308207773cc04868a6d69bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0e1f104cf60bfe34147ef670229f2635789c79a4">
+        <dex dex="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-embedded-3.4.0_87275e72d0378b7c2c5e30976996b811a9bc4c29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.1.0_e434ca961c8d2534aa9cf3beeace5bfec8e2a96d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.1.0_604b6f29531f10c495083fc5ae7932f032438dba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_sdk/0.16.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9cfcc5fc657d64c980b45db00cd75695d1ce2256">
+        <dex dex="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/pre-dexed/debug/com.taobao.android-weex_sdk-0.16.0_6d7f3df0f0f59c98e4c74799d1ea2edbad436b0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.1.46.android/108717c93f7aec31fb86db57cb4ad1e26034c638/fastjson-1.1.46.android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="108717c93f7aec31fb86db57cb4ad1e26034c638">
+        <dex dex="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/pre-dexed/debug/fastjson-1.1.46.android_1687f8016c7997ee5bfbf54038980291a8558cc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.0.0_8f5345e1367a27125568e5ad918192926735c0e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_65ea992a58ceedca87431fc9eefda802ae49ce77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/.gradle/caches/modules-2/files-2.1/com.taobao.android/weexplugin-annotation/1.3/f9c594cafe95ab01986863300b2f2993b5777b42/weexplugin-annotation-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f9c594cafe95ab01986863300b2f2993b5777b42">
+        <dex dex="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/pre-dexed/debug/weexplugin-annotation-1.3_a95d2146cb6100b7306d23f779905b4f019bae93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.1.0_8ced45675fa0f4e5bdd34e8caee3e14bf07a12a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.1.0_908749955a4fb517685a4f2e4ef02d340ff35348.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.1.0_daf201602566a285a59f940ebd27ee035c8f945f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.1.0_1a41be4223cc92583c1749575f0279c8b33b0949.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/.gradle/caches/modules-2/files-2.1/com.taobao.android/weexplugin-processor/1.3/90f4c5cdb14a255dd3cc341b563271494e8cd941/weexplugin-processor-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="90f4c5cdb14a255dd3cc341b563271494e8cd941">
+        <dex dex="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/pre-dexed/debug/weexplugin-processor-1.3_f41923088aae526e6a694ac5bd200834f751b621.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.1.0_a75873345ec4aa5dff750121ef447cefd41e35c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_inspector/0.10.0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="575d72d4a489260763ca62b2b54450fdec3bebd1">
+        <dex dex="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/pre-dexed/debug/com.taobao.android-weex_inspector-0.10.0.5_7733ca19343eed96e75bf8b4aee45c517075faf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.1.0_d49a79193f4a0cab90c6428583addcd0ddb99c89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.1.0_6c27c877517a555d608675f558cc6880e0d909d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0e1f104cf60bfe34147ef670229f2635789c79a4">
+        <dex dex="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-embedded-3.4.0_30f614fb0484ca63c8b55e6fe80d95fc552152d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_f8c9b7ecb6f088390889f09ffd972afe6cb812dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.3.0/7896d229b6aa7884552ab9c23de54c7eb0de8203/okhttp-ws-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7896d229b6aa7884552ab9c23de54c7eb0de8203">
+        <dex dex="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.3.0_5689c950ab5344bdf9009384f58f9f08ff580da9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/pre-dexed/debug/jsr305-2.0.1_3ae2e54d7f834fdea40ba1903f346e2f539f5a91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.1.0_eb16aab08d4b3ace7bfa9b865519088ff4650af1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-26.1.0_94bf6e8e443b32d7585d9fde6fed21dd0bb80c68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.1.0_e0154afda325ee09ead23881e11be9aaf7c584d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-26.1.0_6a51b4dc223039f703e0ed4092d52c60953bcc14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.1.0_9df07c3d2b6ff7147e5a0f48f7707abeb2a02b85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.3.0/1b355f73402020c5a0dcca58affc3ec3dfeabac1/okio-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/pre-dexed/debug/okio-1.3.0_86646b4a3007d9e6836fdab125353bc5db5be37f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.1.0_827861cd8389d45bdfc31223c2d21c80f696045e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_617bc1aa71d1d3717531cd7bce8182538ceb099b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/exploded-aar/com.android.support/transition/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/changba157/Documents/ttest/my-android/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-26.1.0_a43f934327d9b35d6e459dc4719b2fce2e375844.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_8e1ef6abe0a4619ba859dfd2aeeb13dba2ae3a03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/exploded-aar/com.android.support/transition/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-26.1.0_7eecd733051c5c836d301885df37a7f3bece1edc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.1.0_44c864ebae7deffe1d7a23d4de0729b047f18fe7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.1.0_62f79f48bb9127cd914917fe28f7a54ad3ab5723.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_ed633bd909238a8f79d90d8b78fb17ed897df0dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/changba157/Documents/ttest/my-app/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.1.0_84eca23117f210a2987b600c5a4d63d54205e7d0.jar" />
+    </item>
+
+</items>
